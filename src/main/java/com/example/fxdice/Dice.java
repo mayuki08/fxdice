@@ -1,7 +1,7 @@
 package com.example.fxdice;
 import java.util.Random; //乱数を使うためのパッケージ
 
-//サイコロのシュミレーションをするクラス
+//サイコロのシュミレーションをするクラスの説明
 public class Dice {
 
     private int number = 1;
